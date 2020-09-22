@@ -16,7 +16,7 @@ Program content are nodes and the viewers that engage with those nodes are edges
 
 Both the viewers as nodes and content as nodes approaches are problematic because of the large number of many-to-many relationships between viewers and content.  Representing both viewers and content as nodes results in a more prgramatic network graph.
 
-<img src="/img/combined_network.png" width="400">
+<img src="/img/combined_network.png" width="300">
 
 ### Viewing Communities
 
@@ -33,13 +33,17 @@ By examining the vieiwing within general genres and contrasting the demographic 
 
 Examples include the separation within genres like "reality" programming between documentary series like _EXPEDITION UNKNOWN_ and _GHOST HUNTERS_ and which can be demographically related and share viewers, but have distinctly different core viewers further down in the hierarchy.
 
-<img src="/img/genre_distinctions.png" width="400">
+<sub>_sub communities of documentary/reality_</sub>
+
+<img src="/img/genre_distinctions.png" width="600">
 
 Additionally, if new sub-genres appear to be emerging over time they can be identified in the taxonomy as it changes over time.
 
 ##### Effective Advertising or Tune-in Promotions Without Direct Targeting
 
 As more privacy restrictions make direct-targeting of viewers mor problematic, a detailed taxonomy of content viewing and and training on the attributes of samples of their viewers allow us to effectively reach the right consumers without targeting them directly.  For example, viewers in specific communites will have a much higher probability to drive a luxury vehical than other communities.
+
+<sub>_viewing communities with viewers with a higher probability of owning a luxury car_</sub>
 
 <img src="/img/luxury_car.png" width="400">
 
