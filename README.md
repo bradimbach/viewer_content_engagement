@@ -31,7 +31,7 @@ There are several possible use cases for this network graph / community extracti
 
 By examining the vieiwing within general genres and contrasting the demographic charactersistic of the viewers between those groups, we can begin to give more detailed genre labels based on the real-world separation between revealed by the viewers' actual preferences.
 
-Examples include the separation within genres like "reality" programming between documentary series like _EXPEDITION UNKNOWN_ (occupational/survival) and which can be demographically related and share viewers, but have distinctly different core viewers further down in the hierarchy.
+Examples include the separation within genres like "reality" programming between documentary series like _EXPEDITION UNKNOWN_ and _GHOST HUNTERS_ and which can be demographically related and share viewers, but have distinctly different core viewers further down in the hierarchy.
 
 <img src="/img/genre_distinctions.png" width="400">
 
