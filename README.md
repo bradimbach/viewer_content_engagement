@@ -33,7 +33,7 @@ By examining the vieiwing within general genres and contrasting the demographic 
 
 Examples include the separation within genres like "reality" programming between documentary series like _EXPEDITION UNKNOWN_ and _GHOST HUNTERS_ and which can be demographically related and share viewers, but have distinctly different core viewers further down in the hierarchy.
 
-<sub>_sub communities of documentary/reality_</sub>
+<sub>_hierarchical view of communities and sub communities of documentary/reality programming derived from the full content/viewer network graph_</sub>
 
 <img src="/img/genre_distinctions.png" width="600">
 
@@ -41,9 +41,9 @@ Additionally, if new sub-genres appear to be emerging over time they can be iden
 
 ##### Effective Advertising or Tune-in Promotions Without Direct Targeting
 
-As more privacy restrictions make direct-targeting of viewers mor problematic, a detailed taxonomy of content viewing and and training on the attributes of samples of their viewers allow us to effectively reach the right consumers without targeting them directly.  For example, viewers in specific communites will have a much higher probability to drive a luxury vehical than other communities.
+As more privacy restrictions make direct-targeting of viewers more problematic, a detailed taxonomy of content viewing and and training on the attributes of samples of their viewers allow us to effectively reach the right consumers without targeting them directly.  For example, viewers in specific communites will have a much higher probability to drive a luxury vehical than other communities.
 
-<sub>_viewing communities with viewers with a higher probability of owning a luxury car_</sub>
+<sub>_network diagram of only the program elements showing program clusters where viewers with a higher probability of owning a luxury car are concentrated_</sub>
 
 <img src="/img/luxury_car.png" width="400">
 
